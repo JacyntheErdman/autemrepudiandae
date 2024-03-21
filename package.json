@@ -1,0 +1,26 @@
+{
+  "name": "autemrepudiandae",
+  "version": "1.0.0",
+  "description": "Package to wrap the /check/<domain, ip, eth addr> api for etherscamdb.info",
+  "main": "check.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JacyntheErdman/autemrepudiandae.git"
+  },
+  "keywords": [
+    "autem",
+    "etherscamdb",
+    "esdb",
+    "phishing",
+    "security",
+    "fugit",
+    "fugit"
+  ],
+  "author": "JaunitaSchaefer",
+  "license": "MIT",
+  "dependencies": {
+    "json": "^9.0.6",
+    "request": "^2.87.0"
+  },
+  "homepage": "https://github.com/JacyntheErdman/autemrepudiandae.git"
+}
